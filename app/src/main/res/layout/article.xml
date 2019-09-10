@@ -7,7 +7,7 @@
     android:padding="15dp"
     android:background="#fff"
     >
-
+    <!--TODO move any dp values and sp values to dimns.xml resource file, and any color to colors.xml file and any text to strings.xml file-->
 
     <ImageView
         android:id="@+id/article_thumbnail"
